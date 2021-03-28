@@ -27,7 +27,7 @@ app.get('/r/:subreddit', (req,res) => {
      
 })
 
-app.get('/cat', (req,res) => {
+app.get('/catss', (req,res) => {
 
     const cats = [ 'Black', 'Grey', 'White', 'Orange', 'Yellow'];
     
